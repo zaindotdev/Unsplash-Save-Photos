@@ -1,1 +1,1 @@
-# This is the challenge for the internship in EnlivenAI Solutions
+# This is the challenge for the internship
